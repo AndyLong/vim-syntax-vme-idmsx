@@ -1,0 +1,7 @@
+This collection of files creates a syntax recognition system for IDMSX Schema &
+Storage Schema Data Description Language files, and parameter files for the
+IDMSX Restructure & Index Tidy utilities, running on the ICL/Fujitsu VME
+operating system. 
+
+*** NOTE: These files are sill under development ***
+
